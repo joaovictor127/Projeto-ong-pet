@@ -13,3 +13,4 @@ Permite cadastro de usuários, login seguro com senha criptografada, cadastro, e
 - 📝 Geração de relatórios em arquivos `.txt`  
 - 📂 Banco de dados local SQLite automático  
 - 🖥️ Interface gráfica amigável com Tkinter
+
